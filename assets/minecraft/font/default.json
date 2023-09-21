@@ -1,0 +1,18 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "hynix:branding/logo.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hynix:branding/welcome.png",
+            "ascent": 60,
+            "height": 120,
+            "chars": ["\uE001"]
+        }
+    ]
+}
